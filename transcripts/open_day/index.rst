@@ -6,3 +6,4 @@ Open Day
    :maxdepth: 2
 
    daniele_procida_welcome_to_djangocon
+   raphael_barrois_cyberponies
